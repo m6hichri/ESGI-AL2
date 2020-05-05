@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ESGI.DesignPattern.Facto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ESGI.DesignPattern.Strategy", "05.ESGI.DesignPattern.Strategy\05.ESGI.DesignPattern.Strategy.csproj", "{CF31829A-5406-4C38-AA11-5511215EE8CF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ESGI.DesignPattern.State", "06.ESGI.DesignPattern.State\06.ESGI.DesignPattern.State.csproj", "{9E0D4250-6AD7-458F-8CB6-8C6FB32C06C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CF31829A-5406-4C38-AA11-5511215EE8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF31829A-5406-4C38-AA11-5511215EE8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF31829A-5406-4C38-AA11-5511215EE8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0D4250-6AD7-458F-8CB6-8C6FB32C06C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D4250-6AD7-458F-8CB6-8C6FB32C06C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D4250-6AD7-458F-8CB6-8C6FB32C06C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D4250-6AD7-458F-8CB6-8C6FB32C06C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

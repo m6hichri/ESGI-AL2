@@ -1,4 +1,4 @@
-# ESGI Design Pattern
+# ESGI Design Patterns
 
 ## Objectifs
 
