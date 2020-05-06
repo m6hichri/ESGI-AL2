@@ -30,6 +30,12 @@ Lancer les tests
 dotnet test project_folder
 ```
 
+Tester en continu
+
+```
+dotnet watch test project_folder
+```
+
 ### IDEs
 
 - [Visual Studio](https://visualstudio.microsoft.com/fr/vs/)
